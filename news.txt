@@ -1,9 +1,5 @@
-v1.0.8 - Update
+v1.0.9 - Update
 
-Added a progress bar.
-Added hash verification for automatic updates.
-Added plan-based status display.
-Roblox External: Undetected.
-Added HWID account linking.
+Auto-update fully implemented (100%).
 
 Security Notice: Never share your password. We will never ask for it.
